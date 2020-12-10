@@ -5,7 +5,7 @@ description: This is the home page of Lightroom APIs
  
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Stock image of a mountain](images/finalcontentpic.jpg)
 
 #  Build applications that work with Lightroom.
 

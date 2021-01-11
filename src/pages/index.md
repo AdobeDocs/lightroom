@@ -7,7 +7,7 @@ description: This is the home page of Lightroom APIs
 
 ![Stock image of a mountain](images/finalcontentpic.jpg)
 
-![Dreamweaver Logo](images/lr_appicon_256.svg)
+![Lightroom Logo](images/lr_appicon_256.svg)
 
 #  Build applications that work with Lightroom
 

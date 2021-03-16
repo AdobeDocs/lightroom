@@ -40,7 +40,7 @@ Organize with searchable keywords that are automatically applied without the has
 Through RESTful endpoints, your application can streamline workflows for photographers.
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 

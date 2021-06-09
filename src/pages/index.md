@@ -7,7 +7,7 @@ description: This is the home page of Lightroom APIs
 
 ![Stock image of a mountain](images/finalcontentpic.jpg)
 
-![Lightroom Logo](images/lr_appicon_256.svg)
+![Lightroom Logo](https://adobe.io/shared/icons/lr_appicon_64.svg)
 
 #  Build applications that work with Lightroom
 
@@ -42,7 +42,7 @@ Through RESTful endpoints, your application can streamline workflows for photogr
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 

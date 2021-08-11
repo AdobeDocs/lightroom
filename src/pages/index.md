@@ -1,4 +1,8 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - Lua
 title: Creative Cloud - Lightroom
 description: This is the home page of Lightroom APIs 
 ---
